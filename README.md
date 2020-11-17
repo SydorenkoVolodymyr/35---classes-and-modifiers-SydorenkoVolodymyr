@@ -37,6 +37,9 @@
 ![](https://github.com/ppc-ntu-khpi/Class-Starter/raw/main/images/GetterAndSetter.png)
   * **використати ці методи** в методі в методі ````main```` класу````CustomerTest````
   * зробити та зберегти (тека **Solution**) у файл ````advanced.png```` **скріншот** результатів роботи програми, та модифікувати файл ````README.md````відповідним чином
+# Виконання
+![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-SydorenkoVolodymyr/tree/main/Solution/Исполнение.png)
+
 
 
 
